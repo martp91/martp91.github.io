@@ -1,10 +1,12 @@
 ## Info
-Current position: Postdoc / Data Scientist Sanquin Research - Transfusion Technology Assessment 
+Current position: Postdoc / Data Scientist Sanquin Research - Donor health medicine ~~Transfusion Technology Assessment~~
 
 ## Selected publications
 
 ### 2025
-- Pothast, M., van den Hurk, K., Janssen, M. (2025). Modelling the effect of conditionally repeating hemoglobin measurements prior to blood donation. (accepted for <em>Transfusion</em>) [eprint](/publications/modelling_repeated_Hb_measurements_MP_2025.pdf), [supplemental](/publications/supplemental_modelling_repeated_Hb_measurements_MP_2025.pdf), [code](https://github.com/martp91/repeated_Hb_paper)
+- Meulenbeld A, Styles C, Shuttleworth G, Manathunga S, van Remoortel H, Malard L, Brits T, Swanevelder R, García-Erce JA, Garcia-Martínez I, Karki S, Welvaert M, Russell WA, Arvas M, van den Hurk K, Pothast M, Janssen M. Potential benefits of an alternative haemoglobin deferral strategy evaluated in seven countries. Vox Sang. 2025 Oct 13. [doi: 10.1111/vox.70131](https://doi.org/10.1111/vox.70131). PMID: 41083250.
+- Meulenbeld A, Turkulainen EV, Li W, Pothast MR, Qi H, Allara E, Di Angelantonio E; INTERVAL Trial Group; Swanevelder R, Brits T, Paalvast Y, van den Hurk K, Matlung HL, Swinkels DW, Russell WA, Arvas M, Janssen MP. Blood donor populations reveal a clear association between ferritin and change in haemoglobin levels. Br J Haematol. 2025 Sep;207(3):1096-1103. [doi: 10.1111/bjh.70066](https://doi.org/10.1111/bjh.70066). PMID: 40770905; PMCID: PMC12436240.
+- Pothast M, van den Hurk K, Janssen MP. Modeling the effect of conditionally repeating hemoglobin measurements prior to blood donation. Transfusion. 2025 Jun 5. [doi: 10.1111/trf.18303](https://doi.org/10.1111/trf.18303). [eprint](/publications/modelling_repeated_Hb_measurements_MP_2025.pdf), [supplemental](/publications/supplemental_modelling_repeated_Hb_measurements_MP_2025.pdf), [code](https://github.com/martp91/repeated_Hb_paper)
 
 ### 2023
 - Pothast, M., Ultra-high-energy cosmic particle identification (2023). [PhD thesis](http://www.nikhef.nl/pub/services/biblio/theses_pdf/thesis_M_Pothast.pdf), [code](https://github.com/martp91/time-trace-template-gh)
